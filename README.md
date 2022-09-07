@@ -1,2 +1,2 @@
 # I.A
-# Wealth Managment
+# Standard Managment
